@@ -1,7 +1,7 @@
 % This code is based on the follwing paper
 % Inversion-Based Output Tracking and Unknown Input Reconstruction of Square Discrete-Time Linear Systems By E.Naderi and K.Khorasani
-% This is an illustrative code. It is neither optimized nor generalize
-% This code does not cover all aspects of the paper, for instance the case system has zero on unit circle or multiple MP zeros at one location
+% This is an illustrative code. It is neither optimized nor generalized
+% This code does not cover all aspects of the paper, for instance the case system has zero on the unit circle 
 % This code is solely developed for my own research
 % Author: Esmaeil Naderi
 
