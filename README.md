@@ -1,5 +1,5 @@
 # Linear-Systems
-This is a MATLAB code for inversion of inversion of linear systems. This code is developed based on the follwoing paper which is availabe on arXiv:
+This is a MATLAB code for inversion of linear systems. This code is developed based on the follwoing paper which is available on arXiv:
 
 
 Inversion-Based Output Tracking and Unknown Input Reconstruction of Square Discrete-Time Linear Systems
